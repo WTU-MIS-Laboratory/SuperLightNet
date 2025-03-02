@@ -1,8 +1,8 @@
 # [SuperLightNet](https://github.com/WTU-MIS-Laboratory/SuperLightNet)
 
-(Hyperlinks will be updated at the appropriate time)
-
 Official repository for "SuperLightNet: Lightweight Parameter Aggregation Network for Multimodal Brain Tumor Segmentation".
+1. Hyperlinks will be updated at the appropriate time
+2. Core innovations will be made public when permitted by the editor
 
 
 ## Release
