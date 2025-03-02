@@ -28,7 +28,7 @@ Requirements: `CUDA ≥ 11.8`
 
 ## Data Preprocess
 
-Download BraTS2019 dataset [here](https://www.med.upenn.edu/cbica/brats-2019/) and BraTS2021 dataset [here](http://braintumorsegmentation.org/). Then unzip them into `data/processed`, and change the `'root'` path into your unzip path, 
+Download BraTS2019 dataset [here](https://www.med.upenn.edu/cbica/brats-2019/) and BraTS2021 dataset [here](http://braintumorsegmentation.org/). Then unzip them into `datasets/processed`, and change the `'root'` path into your unzip path, 
 
 ```
 train_set = {
