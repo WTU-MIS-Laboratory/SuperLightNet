@@ -44,7 +44,7 @@ make sure the file tree of datasets as follow:
 
 
 ```
-data/
+datasets/
 ├── processed/
 │   ├── MICCAI_BraTS_2019_Data_Training/
 │   │   ├── LGG
