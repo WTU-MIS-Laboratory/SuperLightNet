@@ -6,7 +6,8 @@ Official repository for "SuperLightNet: Lightweight Parameter Aggregation Networ
 
 ## Release
 
--  🔥**News**: ```2025/3/2```: SuperLightNet(draft) released.
+-  🔥**News**: ```2025/6/15```: superlightnet.py updated.
+-   ```2025/3/2```: SuperLightNet(draft) released.
 
 
 ## Introduction to SuperLightNet
