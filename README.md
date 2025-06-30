@@ -71,6 +71,6 @@ datasets/
 
 ## Train cli example
 ```
-torchrun --nproc_per_node=1 --master_port=27681 Jtrain.py --gpus 4 --num_workers 16 --criterion BCEWithDiceLoss --batch_size 2 --lr 0.001 --optimizer AdamW --weight_decay 1e-2 --end_epoch 298 --task BraTS --datasets_dir /home/cjc/datasets/JCNet/MICCAI_BraTS_2019_Data_Training/Train --experiment paper_BraTS_JCMNetv8_release_test --train_file train.txt --valid_on_train 0 --valid_per_epoch 1 --valid_file valid.txt
+torchrun --nproc_per_node=1 --master_port=27681 Jtrain.py --gpus 4 --num_workers 16 --criterion BCEWithDiceLoss --batch_size 2 --lr 0.001 --optimizer AdamW --weight_decay 1e-2 --end_epoch 298 --task BraTS --datasets_dir 'Replace with the actual absolute path of the dataset' --experiment exp_name --train_file train.txt --valid_on_train 0 --valid_per_epoch 1 --valid_file valid.txt
 ```
 
