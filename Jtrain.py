@@ -12,7 +12,7 @@ from torch.cuda.amp import GradScaler, autocast
 import Jdataset
 from Jnetworks import JMCriterion
 from Jnetworks.JMCriterion import all_reduce
-from Jnetworksv2.JCMNetv8 import ParallelU_Net,NormalU_Net
+from Jnetworksv2.JCMNetv8 import NormalU_Net
 
 
 
